@@ -1,0 +1,7 @@
+<suite name="FlipkartBotSuite">
+  <test name="RunChallenges">
+    <classes>
+      <class name="flipkartbot.ChallengeRunner"/>
+    </classes>
+  </test>
+</suite>
